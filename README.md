@@ -23,8 +23,9 @@
 </td>
 
 <td align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" width="350">
+  <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
 </td>
+
 </tr>
 </table>
 
