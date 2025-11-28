@@ -71,6 +71,6 @@
 
 ---
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishakhav-Jadhav&theme=default" />
 </p>
