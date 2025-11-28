@@ -9,27 +9,25 @@
 </p>
 
 ---
+<!-- MAIN SECTION: NO TABLE, CLEAN FLEXBOX LAYOUT -->
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
 
-<!-- MAIN SECTION: LEFT TEXT + RIGHT GIF -->
-<Table>
-<tr>
-<td width="55%" valign="top">
+  <!-- LEFT SIDE INFO -->
+  <div style="flex: 1;">
+    <ul>
+      <li>👩‍💻 All of my projects are available at <a href="https://github.com/Vishakhav-Jadhav">github.com/Vishakhav-Jadhav</a></li>
+      <li>💬 Ask me about <b>Python, SQL, JavaScript, React, Data Science</b></li>
+      <li>📫 Reach me at <b>vish142004@gmail.com</b></li>
+      <li>✨ Fun fact: <b>I love creating UI & exploring AI tools</b></li>
+    </ul>
+  </div>
 
-<ul>
-  <li>👩‍💻 All of my projects are available at <a href="https://github.com/Vishakhav-Jadhav">github.com/Vishakhav-Jadhav</a></li>
-  <li>💬 Ask me about <b>Python, SQL, JavaScript, React, Data Science</b></li>
-  <li>📫 Reach me at <b>vish142004@gmail.com</b></li>
-  <li>✨ Fun fact: <b>I love creating UI & exploring AI tools</b></li>
-</ul>
+  <!-- RIGHT SIDE GIF -->
+  <div style="flex: 1; text-align: right;">
+    <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="330">
+  </div>
 
-</td>
-
-<td width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
-</td>
-</tr>
-
-</Table>
+</div>
 ---
 
 ### Connect with me:
