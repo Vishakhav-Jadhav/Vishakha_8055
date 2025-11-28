@@ -11,7 +11,7 @@
 ---
 
 <!-- MAIN SECTION: LEFT TEXT + RIGHT GIF -->
-
+<Table>
 <tr>
 <td width="55%" valign="top">
 
@@ -29,7 +29,7 @@
 </td>
 </tr>
 
-
+</Table>
 ---
 
 ### Connect with me:
