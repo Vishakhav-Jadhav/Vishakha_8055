@@ -9,9 +9,9 @@
 </p>
 
 <!-- MAIN SECTION: SAME POSITION, NO BORDER -->
-<table style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
-<td width="55%" valign="top" style="border: none;">
+<table style="border-collapse: collapse; border: 0;">
+<tr style="border: 0;">
+<td width="55%" valign="top" style="border: 0;">
 
 <ul>
   <li>👩‍💻 All of my projects are available at <a href="https://github.com/Vishakhav-Jadhav">github.com/Vishakhav-Jadhav</a></li>
