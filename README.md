@@ -7,26 +7,28 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Vishakhav-Jadhav&label=Profile%20Views&color=blue&style=flat"/>
 </p>
-<!-- MAIN SECTION: BORDER FREE LEFT/RIGHT LAYOUT -->
-<div style="display: flex; align-items: flex-start;">
+<!-- MAIN SECTION: SAME POSITION — NO BORDER -->
+<div>
+<table style="border-collapse: collapse; border: 0; width: 100%;">
+<tr style="border: 0;">
+<td width="55%" valign="top" style="border: 0;">
 
-  <!-- LEFT SIDE INFO -->
-  <div style="flex: 1; padding-right: 20px;">
-    <ul>
-      <li>👩‍💻 All of my projects are available at <a href="https://github.com/Vishakhav-Jadhav">github.com/Vishakhav-Jadhav</a></li>
-      <li>💬 Ask me about <b>Python, SQL, JavaScript, React, Data Science</b></li>
-      <li>📫 Reach me at <b>vish142004@gmail.com</b></li>
-      <li>✨ Fun fact: <b>I love creating UI & exploring AI tools</b></li>
-    </ul>
-  </div>
+<ul>
+  <li>👩‍💻 All of my projects are available at <a href="https://github.com/Vishakhav-Jadhav">github.com/Vishakhav-Jadhav</a></li>
+  <li>💬 Ask me about <b>Python, SQL, JavaScript, React, Data Science</b></li>
+  <li>📫 Reach me at <b>vish142004@gmail.com</b></li>
+  <li>✨ Fun fact: <b>I love creating UI & exploring AI tools</b></li>
+</ul>
 
-  <!-- RIGHT SIDE GIF -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
-  </div>
+</td>
 
+<td width="45%" align="center" style="border: 0;">
+  <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
+</td>
+
+</tr>
+</table>
 </div>
-
 
 
 ### Connect with me:
