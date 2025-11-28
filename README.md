@@ -23,7 +23,8 @@
 </td>
 
 <td width="45%" align="center" style="border: 0;">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVtcGk5Y2x6Z3d1aDM5M2Rrcjh2a3Q0dThjZ2l6M2RmeDNqeWduMCZlcD12MV9naWZfYnlfaWQmY3Q9cw/LMcB8XospGZO8UQq87/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU5d2k2ZzR0MGVxZHowNDB4ZHprbHB6YWFmaXdsdHk0dGhnZnR3MSZlcD12MV9naWZfYnlfaWQmY3Q9cw/hqU2KkjW5bE2z04ONg/giphy.gif" width="350">
+
 
 </td>
 
