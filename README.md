@@ -1,33 +1,34 @@
 <h1 align="center">Hi 👋, I'm Vishakha Jadhav</h1>
-
 <h3 align="center">A passionate Data Science & Frontend learner from India</h3>
 
 ---
 
-<table>
-<tr>
-<td>
+<!-- CLEAN LEFT + RIGHT LAYOUT (NO BORDER) -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-### <img src="https://cdn-icons-png.flaticon.com/512/25/25694.png" width="20"> All of my projects  
-👉 https://github.com/Vishakhav-Jadhav
+<!-- LEFT SIDE -->
+<div>
+
+### 👉 All of my projects  
+https://github.com/Vishakhav-Jadhav
 
 ### 💬 Ask me about  
-👉 Python, SQL, JavaScript, React, Data Science
+Python, SQL, JavaScript, React, Data Science
 
 ### 📫 How to reach me  
-👉 vish142004@gmail.com
+vish142004@gmail.com
 
 ### ✨ Fun fact  
-👉 I love creating UI & exploring AI tools
+I love creating UI & exploring AI tools
 
-</td>
+</div>
 
-<td align="border: none; padding-left: 20px;">
-  <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
-</td>
+<!-- RIGHT SIDE -->
+<div>
+  <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="320">
+</div>
 
-</tr>
-</table>
+</div>
 
 ---
 
@@ -53,23 +54,24 @@
 
 ---
 
-<table>
-<tr>
-<td>
+<!-- STATS CARDS CLEAN LAYOUT -->
+<div style="display: flex; justify-content: space-between;">
+
+<div>
 
 ### **Most Used Languages**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakhav-Jadhav&layout=compact&theme=default" height="180"/>
 
-</td>
+</div>
 
-<td>
+<div>
 
 ### **Vishakha's GitHub Stats**
 <img src="https://github-readme-stats.vercel.app/api?username=Vishakhav-Jadhav&show_icons=true&theme=default" height="180"/>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
