@@ -22,7 +22,7 @@
 
 </td>
 
-<td align="center">
+<td align="end">
   <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
 </td>
 
