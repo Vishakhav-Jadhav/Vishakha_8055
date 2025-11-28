@@ -3,10 +3,15 @@
 
 ---
 
-<!-- CLEAN LAYOUT LIKE SAMPLE -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<!-- GIF LEFT | TEXT RIGHT -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<!-- LEFT SIDE TEXT -->
+<!-- LEFT GIF -->
+<div style="width: 40%;">
+  <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
+</div>
+
+<!-- RIGHT TEXT -->
 <div style="width: 55%;">
 
 - 👩‍💻 All of my projects are available at **https://github.com/Vishakhav-Jadhav**
@@ -17,11 +22,6 @@
 
 - ✨ Fun fact: **I love creating UI & exploring AI tools**
 
-</div>
-
-<!-- RIGHT SIDE GIF -->
-<div style="width: 40%; text-align: end;">
-  <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
 </div>
 
 </div>
@@ -50,16 +50,19 @@
 
 ---
 
+<!-- TWO CARDS IN ONE ROW -->
 <div style="display: flex; justify-content: space-between;">
 
-<div>
-
+<!-- LEFT CARD -->
+<div style="width: 48%;">
+  
 ### **Most Used Languages**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakhav-Jadhav&layout=compact&theme=default" height="180"/>
 
 </div>
 
-<div>
+<!-- RIGHT CARD -->
+<div style="width: 48%;">
 
 ### **Vishakha's GitHub Stats**
 <img src="https://github-readme-stats.vercel.app/api?username=Vishakhav-Jadhav&show_icons=true&theme=default" height="180"/>
