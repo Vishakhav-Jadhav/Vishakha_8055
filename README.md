@@ -23,7 +23,8 @@
 </td>
 
 <td width="45%" align="center" style="border: 0;">
-  <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVtcGk5Y2x6Z3d1aDM5M2Rrcjh2a3Q0dThjZ2l6M2RmeDNqeWduMCZlcD12MV9naWZfYnlfaWQmY3Q9cw/LMcB8XospGZO8UQq87/giphy.gif" width="350">
+
 </td>
 
 </tr>
