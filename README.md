@@ -3,29 +3,25 @@
 
 ---
 
-<!-- CLEAN LEFT + RIGHT LAYOUT (NO BORDER) -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<!-- CLEAN LAYOUT LIKE SAMPLE -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-<!-- LEFT SIDE -->
-<div>
+<!-- LEFT SIDE TEXT -->
+<div style="width: 55%;">
 
-### 👉 All of my projects  
-https://github.com/Vishakhav-Jadhav
+- 👩‍💻 All of my projects are available at **https://github.com/Vishakhav-Jadhav**
 
-### 💬 Ask me about  
-Python, SQL, JavaScript, React, Data Science
+- 💬 Ask me about **Python, SQL, JavaScript, React, Data Science**
 
-### 📫 How to reach me  
-vish142004@gmail.com
+- 📫 How to reach me: **vish142004@gmail.com**
 
-### ✨ Fun fact  
-I love creating UI & exploring AI tools
+- ✨ Fun fact: **I love creating UI & exploring AI tools**
 
 </div>
 
-<!-- RIGHT SIDE -->
-<div>
-  <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="320">
+<!-- RIGHT SIDE GIF -->
+<div style="width: 40%; text-align: center;">
+  <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
 </div>
 
 </div>
@@ -54,7 +50,6 @@ I love creating UI & exploring AI tools
 
 ---
 
-<!-- STATS CARDS CLEAN LAYOUT -->
 <div style="display: flex; justify-content: space-between;">
 
 <div>
