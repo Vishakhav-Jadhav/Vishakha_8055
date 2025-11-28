@@ -20,7 +20,7 @@
 </div>
 
 <!-- RIGHT SIDE GIF -->
-<div style="width: 40%; text-align: center;">
+<div style="width: 40%; text-align: end;">
   <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
 </div>
 
