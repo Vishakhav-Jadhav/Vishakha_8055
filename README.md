@@ -11,7 +11,7 @@
 ---
 
 <!-- MAIN SECTION: LEFT TEXT + RIGHT GIF -->
-<table>
+
 <tr>
 <td width="55%" valign="top">
 
@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/Vishakhav-Jadhav/Vishakha_8055/main/gif.gif" width="350">
 </td>
 </tr>
-</table>
+
 
 ---
 
